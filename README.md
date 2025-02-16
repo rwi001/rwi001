@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# For-GitHub
+![logo](https://github.com/ravi-Snippet/ravi-Snippet/blob/main/Banner.jpeg)
+<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 # 💫 About Me:
 <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 

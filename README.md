@@ -1,4 +1,4 @@
-![logo](https://github.com/ravi-Snippet/ravi-Snippet/blob/main/Banner.jpeg)
+![logo](https://github.com/rwi001/rwi001/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 # 💫 About Me:
 <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
